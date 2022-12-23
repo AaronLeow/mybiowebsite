@@ -1,0 +1,16 @@
+{
+  "name": "frontend-portfolio-project-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d PersonalBioWebsite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://AaronLeow.github.io/mybiowebsite",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
